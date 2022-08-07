@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsapp 8172073868
+- 👋 Hi, I’m SAPTARSHI MONDAL.
+- 👀 I’m interested in Study.
+- 🌱 I’m currently learning Electronics and Communication Engineering.
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning.
+- 📫 How to reach me whatsapp 9932590188.
 
 <!---
 Me7rishi/Me7rishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
