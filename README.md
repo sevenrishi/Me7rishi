@@ -1,6 +1,5 @@
 - 👋 Hi, I’m SAPTARSHI MONDAL
 - 👀 I’m interested in Study
-- 🌱 I’m currently learning Computer science
 - 👋 Hi, I’m SAPTARSHI MONDAL.
 - 👀 I’m interested in Study.
 - 🌱 I’m currently learning Electronics and Communication Engineering.
