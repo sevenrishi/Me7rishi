@@ -2,7 +2,6 @@
 - 👀 I’m interested in Study
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me whatsapp 8172073868
 - 👋 Hi, I’m SAPTARSHI MONDAL.
 - 👀 I’m interested in Study.
 - 🌱 I’m currently learning Electronics and Communication Engineering.
