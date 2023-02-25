@@ -44,5 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Me7rishi&show_icons=true&locale=en" alt="Me7rishi" /></p>
 <br>
 <br>
-<h1 align="center" style="colour:red">Thank You for Visiting :-)</h1>
+<h1 align="center" style="colour:red">Thank You for Visiting : )</h1>
 
