@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAPTARSHI MONDAL</h1>
+<h1 align="center">Hi 👋, I'm SAPTARSHI MONDAL <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="50px"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me7rishi&label=Profile%20views&color=0e75b6&style=flat" alt="me7rishi" /> </p>
