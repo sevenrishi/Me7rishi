@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif" height="50px">, I'm <a href="https://github.com/Me7rishi">SAPTARSHI MONDAL</a> <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="50px"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"><b>Learner | Creator | Developer</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me7rishi&label=Profile%20views&color=0e75b6&style=flat" alt="me7rishi" /> </p>
 
