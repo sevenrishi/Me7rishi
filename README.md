@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Google Solution Challenge & Hackathons.**
 
-- 👨‍💻 All of my projects are available at [http://sevenrishi.unaux.com](http://sevenrishi.unaux.com)
+- 👨‍💻 All of my projects are available at https://saptarshimondal.me .
 
 - 💬 Ask me about **C,C++,Python, HTML, CSS, JavaScript, MATLAB.**
 
